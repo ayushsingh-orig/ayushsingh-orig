@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F59E0B&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+CoffeeWithCode;Love+to+Code+%26+Create" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F59E0B&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Projects;Open+to+work;Love+to+Code+%26+Create" />
 </p>
 
 ---
