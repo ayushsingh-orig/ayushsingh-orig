@@ -7,7 +7,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **CoffeeWithCode**
 - 🌱 Learning **Full Stack Development & System Design**
 - 💡 Interested in **AI + Web Development**
 - ⚡ Fun fact: *I debug more than I code 😄*
