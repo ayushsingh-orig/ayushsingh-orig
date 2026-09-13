@@ -1,49 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<!-- Name & Title Section with Search Engine Indexing Tags -->
+<div align="left">
+  <h1>Hi, I'm Ayush Singh 🚀</h1>
+  <p><strong>Full Stack Web Developer & Computer Science Engineering Student (Batch 2024-2028) at <a href="https://quantumuniversity.edu.in" target="_blank">Quantum University</a>.</strong></p>
+  <p>I build clean, scalable architectures and explore modern edge technologies. Passionate about web infrastructure, API optimization, and open-source contributions.</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F59E0B&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Projects;Open+to+work;Love+to+Code+%26+Create" />
+<br />
+
+<!-- Modern Minimal Tech Badges -->
+<h3>🛠️ Tech Stack & Ecosystem</h3>
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React.js" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="Tailwind" />
+  <br />
+  <!-- Backend & APIs -->
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Express" />
+  <img src="https://shields.io" alt="Hono" />
+  <img src="https://shields.io" alt="Cloudflare" />
+  <br />
+  <!-- Databases & Core -->
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="C++" />
 </p>
 
----
+<br />
 
-### 🚀 About Me
-- 🌱 Learning **Full Stack Development & System Design**
-- 💡 Interested in **AI + Web Development**
-- ⚡ Fun fact: *I debug more than I code 😄*
 
----
+<h3>🌐 Verified Digital Footprint</h3>
+<p>To avoid identity confusion across platform handle variations (<code>.orig</code> vs <code>-orig</code>), here are my official networks:</p>
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+<table>
+  <tr>
+    <td align="left">💼 <strong>Professional Network</strong></td>
+    <td align="left"><a href="https://linkedin.com" target="_blank">LinkedIn (ayushsingh-orig)</a></td>
+  </tr>
+  <tr>
+    <td align="left">💻 <strong>Source Code Hub</strong></td>
+    <td align="left"><a href="https://github.com" target="_blank">GitHub (ayushsingh-orig)</a></td>
+  </tr>
+  <tr>
+    <td align="left">📸 <strong>Social & Media</strong></td>
+    <td align="left"><a href="https://instagram.com" target="_blank">Instagram (@ayushsingh.orig)</a></td>
+  </tr>
+  <tr>
+    <td align="left">📩 <strong>Direct Inquiries</strong></td>
+    <td align="left"><code>ayushsingh.orig@gmail.com</code></td>
+  </tr>
+</table>
 
----
+<br />
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh-orig&show_icons=true&theme=tokyonight" />
-</p>
+<!-- Dynamic GitHub Activity (Keeps it professional yet informative) -->
+<div align="left">
+  <img src="https://vercel.app" alt="Ayush's GitHub Stats" height="150" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh-qu&theme=tokyonight" />
-</p>
+<br />
+<hr />
+<p align="center"><small>Verified Developer Profile • Managed & Maintained by Ayush Singh</small></p>
 
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ayushsingh.orig@gmail.com"><img src="https://img.shields.io/badge/Gmail-brown?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-### ☕ CoffeeWithCode
-> A modern coding platform to practice, learn, and grow with AI 🚀
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
